@@ -1,0 +1,5 @@
+{
+  "name": "Mobile UI Showcase",
+  "description": "A multi-tab mobile application interface showcasing news, video, 3D/AR viewers, and an AI chat assistant, built with React and styled with Tailwind CSS.",
+  "requestFramePermissions": []
+}

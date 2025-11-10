@@ -1,0 +1,9 @@
+
+<resources>
+    <string name="app_name">Mobile UI Showcase</string>
+    <string name="title_news">News</string>
+    <string name="title_video">Video</string>
+    <string name="title_3d">3D</string>
+    <string name="title_ar">AR</string>
+    <string name="title_ai_chat">AI Chat</string>
+</resources>
